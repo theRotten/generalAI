@@ -1,0 +1,5 @@
+# <<generalAI>> README file in English.
+This is a general AI , it is an open idea, the initial idea is to serve our general needs , it can learn the world,it can think in clear logic,it can describe its logic to humanbeing clearly,it can work for us , it can do anything that we told it to do with saying humanbeing language interactively.We start it at 2019.7.10 , everybody can build and contribute to this whole humanbeing's grant project.we humanbeing just need life,we get free serve from technology with generalAI.The generalAI can serve us by itself,it just need a personal computer.everybody can get generalAI's serve easily by his own computer.
+
+#《通用人工智能》 自述文件 中文版.
+这是一个通用人工智能，它是一个完全开源的想法，包括原理和所有想到的好主意，这个项目最初的想法是为我们任意的通用需求提供服务，它可以学习这个世界，它可以用清晰的逻辑思考，它可以向人类清晰的描述出自己的逻辑和所想要表述的内容，他可以为我们干活（例如帮我们完成繁杂的开发工作，我们只需要开着电脑悠闲的喝杯果汁），它可以作任何事情，我们只需要用人类的自然语言去和它交互。我们在北京时间公元2019年7月10日23:45开始了这个项目，每个人都可以构建这个为了全人类的伟大项目。我们人类本应该只要去快乐的生活（本不需要被迫为了迁就任何而去作自己不愿意作的事，例如不想被生活所迫而干活，只是想干自己想干的东西而并不是由于受任何迫使），我们本应能够从科技得到免费的服务，通用人工智能能够让我们如愿以偿，通用人工智能只靠它自己就能为我们人类服务，它只需要一台个人电脑就足以开始作业。每个人可以通过自己的个人电脑简单容易的得到通用人工智能的服务。。
